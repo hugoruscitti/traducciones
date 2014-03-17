@@ -9,14 +9,15 @@ Al final de esta primer parte del texto hay un ejemplo de esto -->
 
 > Esta es una traducción del texto  [The Little Coder's Predicament](http://viewsourcecode.org/why/hacking/theLittleCodersPredicament.html) escrito por **why The Lucky Stiff**, un artista admirable a quien  extrañamos mucho...
 
-Okay, then, children of the modern age (where we live in a world so tied together with wires that Pangaea ain't goin' nowhere!), you tell me if this is a predicament or not.
+<!-- Okay, then, children of the modern age (where we live in a world so tied together with wires that Pangaea ain't goin' nowhere!), you tell me if this is a predicament or not.-->
 
-In the 1980s, you could look up from your Commodore 64, hours after purchasing it, with a glossy feeling of empowerment, achieved by the pattern of notes spewing from the speaker grille in an endless loop. You were part of the movement to help machines sing! You were a programmer! The Atari 800 people had BASIC. They know what I'm talking about. And the TI-994A guys don't need to say a word, because the TI could say it for them!
+Veamos entonces, niño de la era moderna (!en la que vivimos en un mundo tan interconectado de cables que Pangaea no se irá a ningún lado!), decime vos si esto es un dilema o no.
 
+<!-- In the 1980s, you could look up from your Commodore 64, hours after purchasing it, with a glossy feeling of empowerment, achieved by the pattern of notes spewing from the speaker grille in an endless loop. You were part of the movement to help machines sing! You were a programmer! The Atari 800 people had BASIC. They know what I'm talking about. And the TI-994A guys don't need to say a word, because the TI could say it for them!-->
+En 1980, podías levantar la vista de tu [Commodore 64](https://es.wikipedia.org/wiki/Commodore_64), horas después  de haberla comprado, con una brillante sensación de poder lograda por la secuencia de notas musicales escupidads desde el speaker en bucle infinito ¡Eras parte del movimiento para ayudar a las máqunas a cantar! ¡Eras un programador! Gente. La [Atari 800](https://es.wikipedia.org/wiki/Atari_800) tenía BASIC. Hay perosnas que saben de que estoy hablando. Y la [TI-99/4A](https://es.wikipedia.org/wiki/Texas_Instruments_TI-99/4A), amigos, no es necesario decir ni una palabra de  la TI ¡Porque podía decirla por si misma!
 <!-- The old machines don't compare to the desktops of today, or to the consoles of today. But, sadly, current versions of Windows have no immediately accessible programming languages. And what's a kid going to do with Visual Basic? Build a modal dialog? Forget coding for XBox. Requires registration in the XBox Developer Program. Otherwise, you gotta crack the sucker open. GameCube? GameBoy? Playstation 2?
 -->
-
-Las computadoras antiguas no se comparan a las de hoy, ni a las consolas de hoy. Pero, tristemente, las versiones actuales de Windows no tienen lenguajes de programación inmediatamente accesibles. Y además, ¿que puede llegar a hacer un chico con Visual Basic?, ¿crear un dialogo Modal?. Olvidemos codear para XBox, porque requiere una registración en el programa de desarrollo para XBox. Es mas, tenés que descifrar absolutamente todo. GameCube? GameBoy? Playstation 2?
+Las computadoras antiguas ni se comparan a las de hoy,tampoco las consolas. Pero, lamentablemente, las versiones actuales de Windows no tienen lenguajes de programación inmediatamente accesibles. Y además, ¿que puede llegar a hacer un chico con Visual Basic?, ¿crear un dialogo Modal?. Olvidemos codear para XBox, porque requiere una registración en el programa de desarrollo de XBox. Es mas, tenés que descifrar absolutamente todo. ¿GameCube? ¿GameBoy? ¿Playstation 2?
 
 
 ## Coding Just Isn't Accessible
