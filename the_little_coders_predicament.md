@@ -38,12 +38,15 @@ Tal vez esto sólo sea otra razón para empujar a usar Linux y BSD en los sistem
 
 He de mencionar que Windows viene equipado con su própio motor y [entorno de ejecución de scripts](https://es.wikipedia.org/wiki/Windows_Script_Host) para desarrollar en JScipt y VBScript. Pero el uso de este motor esta (creo yo) con poca documentación y limitado a principiantes. Traten de hacer algo útil en un script sin usar Server.CreateObject. ¡No dejemos que los niños toquen los objetos COM, por favor! 
 
-## The Christmas List
+<!--## The Christmas List-->
+## La lista navideña
 
-I'm thinking a toy language for consoles and desktops alike could be monumental. I'm ot saying it needs to be cross-platform. A language for GameCube that took advantage of platform-specific features could be more appealing to GameCube users than a language that used a reduced featureset, but could execute on a handheld. Really, we live in a world where both choices should be available.
+<!--I'm thinking a toy language for consoles and desktops alike could be monumental. I'm ot saying it needs to be cross-platform. A language for GameCube that took advantage of platform-specific features could be more appealing to GameCube users than a language that used a reduced featureset, but could execute on a handheld. Really, we live in a world where both choices should be available.-->
 
-As for essential features:
+Pienso que un lenguaje como para jugar, hecho para consolas y computadoras podría ser monumental. No digo que necesite ser multiplataforma. Un lenguaje para [GameCube](https://es.wikipedia.org/wiki/Gamecube) que tome ventaja de las características específicas de esa plataforma podría ser atractivo para los usuarios de GameCube que un lenguaje que utilize un conjunto de características reducidas, pero que podría ejecutarse en un dispositivo portátil. En realidad, vivimos en un mundo en el que ambas opciones deberían estar disponibles.
 
+<!--As for essential features:-->
+En cuanto a características esenciales:
 
 #### 1. Transportable code.
 
