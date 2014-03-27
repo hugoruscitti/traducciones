@@ -23,7 +23,7 @@ Las computadoras antiguas ni se comparan a las de hoy,tampoco las consolas. Pero
 <!--## Coding Just Isn't Accessible-->
 ## Codear es simplemente inaccesible
 <!-- Yes, there are burgeoning free SDKs for many of these platforms. But they are obscure and most children have no means of actually deploying or executing the code on their own hardware! This is obvious to us all and likely doesn't seem such a big deal. But ask yourself what might have happened had you not had access to a programming language on an Atari 800 or a Commodore. You tell me if this is a predicament.-->
-Sí, florecen SDK libre para muchas de estas plataformas. Pero son oscuras y la mayoría de los niños no tienen medios para realmente implementar o ejecutar el código en su propio hardware. Esto es obvio para todos nosotros y es probable que no parezca gran cosa. Pero hay que preguntarse que podría haber ocurrido de no haber tenido acceso a un lenguaje de programación En una Atari 800 o una Commodore. Diganmé si esto no es un dilema
+Sí, florecen SDK libres para muchas de estas plataformas. Pero son oscuras y la mayoría de los niños no tienen medios para realmente implementar o ejecutar el código en su propio hardware. Esto es obvio para todos nosotros y es probable que no parezca gran cosa. Pero hay que preguntarse que podría haber ocurrido de no haber tenido acceso a un lenguaje de programación En una Atari 800 o una Commodore. Diganmé si esto no es un dilema
 
 <!-- It turns out, most of the kids in my neighborhood are exposed to coding through the TI calculator. A handful of languages are available on the TI and its processor is interesting enough to evoke some curiousity. But this hasn't spread to its PDA big brothers, where young people could have more exposure to programming. And undoubtedly the utility of a language on the Palm, Pocket PC and others would be useful to many. -->
 Resulta que, la mayoría de los chicos de mi barrio estan expuestos al cdeo a través de las [calculadores TI](https://en.wikipedia.org/wiki/TI-83). Pun puñado de lenguajes están disponibles y su procesador es lo suficientemente interesante como para evocar cierta curiosidad. Pero esto no se difundió a sus hermanas mayores las PDA, donde los jóvenes puden tener más exposición a la programación. Y sin duda, la utilidad de un lenguaje para programar en la Palm, Pocket PC y otros dispositivos para muchos serían muy útiles.
@@ -32,11 +32,11 @@ Resulta que, la mayoría de los chicos de mi barrio estan expuestos al cdeo a tr
 ¿Entonces, cuál es el problema en todo esto? No hay escasez de lenguajes de programación, pero se vuelven cada vez más distanciados de la gente. ¿Serán las compañias detrás de estas plataformas que se cansaron ya de poner en manos de los usuarios el poder de los lenguajes de programación? ¿Es qué no hay más demanda? Debe ser algún tipo de avarícia, cosas del dinero o del poder ¿Verdad?
 
 <!-- Perhaps this is just another reason to push Linux and BSD on consumer systems. Still, are scripting languages easily accessible to beginners on those systems? OSX has made several scripting languages available (including Ruby and Python), but most users are unaware of their presence.-->
-Tal vez esto sólo sea otra razón para empujar a usar Linux y BSD en los sistemas de los usaurios comunes. De todas maneras ¿Son sencillos y accesibles los [lenguages de programación interpretado](https://es.wikipedia.org/wiki/Scripts)? [OSX](https://es.wikipedia.org/wiki/OSX) ha hecho y puesto a disposición varios lenguajes (incluyendo Ruby y Python), pero la mayoría de los usaurios no son conscientes de su presencia 
+Tal vez esto sólo sea otra razón para empujar a usar Linux y BSD en los sistemas de los usaurios comunes. De todas maneras ¿Son sencillos y accesibles los [lenguages de programación interpretado](https://es.wikipedia.org/wiki/Scripts)? [OSX](https://es.wikipedia.org/wiki/OSX) ha hecho y puesto a disposición varios lenguajes (incluyendo Ruby y Python), pero la mayoría de los usaurios no son conscientes de su presencia
 
 <!--I should mention that Windows is equipped with its own scripting host for developing in JScript and VBScript. But the use of the scripting host is (I believe) under-documented and limited for beginners. Try doing something useful in a script without using Server.CreateObject. Let's not let kids touch the COM objects, please!-->
 
-He de mencionar que Windows viene equipado con su própio motor y [entorno de ejecución de scripts](https://es.wikipedia.org/wiki/Windows_Script_Host) para desarrollar en JScipt y VBScript. Pero el uso de este motor esta (creo yo) con poca documentación y limitado a principiantes. Traten de hacer algo útil en un script sin usar Server.CreateObject. ¡No dejemos que los niños toquen los objetos COM, por favor! 
+He de mencionar que Windows viene equipado con su própio motor y [entorno de ejecución de scripts](https://es.wikipedia.org/wiki/Windows_Script_Host) para desarrollar en JScipt y VBScript. Pero el uso de este motor esta (creo yo) con poca documentación y limitado a principiantes. Traten de hacer algo útil en un script sin usar Server.CreateObject. ¡No dejemos que los niños toquen los objetos COM, por favor!
 
 <!--## The Christmas List-->
 ## La lista navideña
@@ -50,7 +50,9 @@ En cuanto a características esenciales:
 
 #### 1. Transportable code.
 
-On my TI-994A, I could make a little, animated Optimus Prime from pixels. Insert cassette. Record. Pass around to friends. Receive high fives from friends. Put on wraparound shades. Thank you, TI! Thank you, Optimus Prime!
+<!-- On my TI-994A, I could make a little, animated Optimus Prime from pixels. Insert cassette. Record. Pass around to friends. Receive high fives from friends. Put on wraparound shades. Thank you, TI! Thank you, Optimus Prime! -->
+
+En mi TI-994A, podía hacer un pequeño [Optimus Prime](http://en.wikipedia.org/wiki/Optimus_Prime) con pixeles. Insertar un cassette, grabar, y compartirlo con mis amigos. Recibir felicitaciones de mis amigos, y sentirme realizado. Gracias TI!, muchas gracias Optimus Prime!
 
 A little language for the consoles could be wildly popular if combined with the good ature of sharing code. This could be done by trading memory cards, but would be more effective if code could be easily obtained and posted on the Web. Learning would accelerate and collaborative development could take place.
 
