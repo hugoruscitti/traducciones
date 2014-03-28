@@ -54,10 +54,12 @@ En cuanto a características esenciales:
 
 En mi TI-994A, podía hacer un pequeño [Optimus Prime](http://en.wikipedia.org/wiki/Optimus_Prime) con pixeles. Insertar un cassette, grabar, y compartirlo con mis amigos. Recibir felicitaciones de mis amigos, y sentirme realizado. Gracias TI!, muchas gracias Optimus Prime!
 
-A little language for the consoles could be wildly popular if combined with the good ature of sharing code. This could be done by trading memory cards, but would be more effective if code could be easily obtained and posted on the Web. Learning would accelerate and collaborative development could take place.
+<!--A little language for the consoles could be wildly popular if combined with the good ature of sharing code. This could be done by trading memory cards, but would be more effective if code could be easily obtained and posted on the Web. Learning would accelerate and collaborative development could take place. -->
 
-A suitable language should give coders access to I/O devices, to allow experimentation with network devices and the ability to enhance one's connectivity with others. For the consoles, games could provide hooks for user mods. This has long proven a successful staple of the desktop gaming world.
+Un pequeño lenguaje para las consolas podría convertirse en algo muy popular si se combina con la bondad de compartir código. Esto se podría lograr intercambiando tarjetas de memoria, pero sería más efectivo se obtuviera y se publicará sencillamente en la Web. EL Aprendizaje se aceleraría y daría lugar al desarrollo colaborativo.
 
+<!--A suitable language should give coders access to I/O devices, to allow experimentation with network devices and the ability to enhance one's connectivity with others. For the consoles, games could provide hooks for user mods. This has long proven a successful staple of the desktop gaming world.-->
+Un lenguaje adecuado debe dar a los programadores acceso a dispositivos de E/S, para permitir la experimentación con dispositivos red y mejorar la conectividad entre ellos . Para las consolas, los juegos podrían proporcionar hooks o enganches para mods o modos de usuario. Esto ha demostrado ser un elemento de éxito básico del mundo de los juegos de mesa.
 
 #### 2. Simplicity.
 
