@@ -71,9 +71,11 @@ Un lenguaje adecuado debe dar a los programadores acceso a dispositivos de E/S, 
 Debes poder escribir una sola línea de código y ver el resultado. Necesitamos resultados instantáneos para dar confianza a los principiantes absolutos. Métodos simples para enviar un email, leer una página web, reproducir música. Demostrable en un programa de una línea. 
 
 
-Admittedly, as our systems have grown complex, it is difficult to balance simplicity and capability. Most users will be unimpressed by code that emits beeps and bloops from a PlayStation 2. If Ruby were available on the PS2, then I would hope that I could hear rich symphonic sounds from a wee bit of code.
+<!-- Admittedly, as our systems have grown complex, it is difficult to balance simplicity and capability. Most users will be unimpressed by code that emits beeps and bloops from a PlayStation 2. If Ruby were available on the PS2, then I would hope that I could hear rich symphonic sounds from a wee bit of code.-->
 
-Orchestra.play( "A:2", "C:4", "E:1", "G:1" )
+Cierto es que, como nuestros sistemas han crecido en complejidad, es difícil equilibrar simplicidad y potencialidad. La mayoría de los usuarios se mostraron impresionados por el código que emite pitidos y bloops de una PlayStation 2. Si Ruby hubiera estado disponible en la PS2, entonces esperarían que se puedan oír ricos sonidos sinfónicos usando un poquito de código
+
+    Orchestra.play( "A:2", "C:4", "E:1", "G:1" )
 
 Access to the graphic engine might require more complex code. But simple drawing methods could be provided for beginners. Or images could be stored alongside code and accessed programmatically.
 
