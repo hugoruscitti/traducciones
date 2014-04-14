@@ -22,6 +22,7 @@ En los '80, podías levantar la vista de tu [Commodore 64](https://es.wikipedia.
 Las computadoras antiguas ni se comparan a las de hoy, tampoco las consolas. Pero, lamentablemente, las versiones actuales de Windows no tienen lenguajes de programación inmediatamente accesibles. Además, ¿qué puede llegar a hacer un chico con Visual Basic?, ¿Crear un diálogo modal?. Olvidemos codear para XBox, porque requiere una registración en el programa de desarrollo de XBox. Es más, tenés que descifrar absolutamente todo. ¿GameCube? ¿GameBoy? ¿Playstation 2?
 
 <!--## Coding Just Isn't Accessible-->
+
 ## Programar es simplemente inaccesible
 
 <!-- Yes, there are burgeoning free SDKs for many of these platforms. But they are obscure and most children have no means of actually deploying or executing the code on their own hardware! This is obvious to us all and likely doesn't seem such a big deal. But ask yourself what might have happened had you not had access to a programming language on an Atari 800 or a Commodore. You tell me if this is a predicament.-->
@@ -41,6 +42,7 @@ Tal vez esto sólo sea otra razón para empujar a usar Linux y BSD en los sistem
 He de mencionar que Windows viene equipado con su própio motor y [entorno de ejecución de scripts](https://es.wikipedia.org/wiki/Windows_Script_Host) para desarrollar en JScript y VBScript. Pero el uso de este motor esta (creo yo) con poca documentación y limitado a principiantes. Traten de hacer algo útil en un script sin usar `Server.CreateObject`. ¡No dejemos que los niños toquen los objetos `COM`, por favor!
 
 <!--## The Christmas List-->
+
 ## La lista navideña
 
 <!--I'm thinking a toy language for consoles and desktops alike could be monumental. I'm ot saying it needs to be cross-platform. A language for GameCube that took advantage of platform-specific features could be more appealing to GameCube users than a language that used a reduced featureset, but could execute on a handheld. Really, we live in a world where both choices should be available.-->
