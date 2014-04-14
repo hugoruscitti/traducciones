@@ -79,11 +79,15 @@ Cierto es que, como nuestros sistemas han crecido en complejidad, es difícil eq
 
     Orchestra.play( "A:2", "C:4", "E:1", "G:1" )
 
-Access to the graphic engine might require more complex code. But simple drawing methods could be provided for beginners. Or images could be stored alongside code and accessed programmatically.
+<!--Access to the graphic engine might require more complex code. But simple drawing methods could be provided for beginners. Or images could be stored alongside code and accessed programmatically.-->
 
-ImageLibrary.load( "GolfingOldMan" ).drawAt( 12, 10 )
+EL acceso al motor gráfico puede requerir de código más complejo. Pero podrían proporcinarse metodos simples de dibujo para principiantes. O las imágenes podrían estar guardadas junto al código para acceder a ellas a través de la programación.
 
-The trick would be to uncover what small applications might entice novices and still provide the ability to write large applications that would drive developers to master the language and not limit their growth.
+    ImageLibrary.load( "GolfingOldMan" ).drawAt( 12, 10 )
+
+<!--The trick would be to uncover what small applications might entice novices and still provide the ability to write large applications that would drive developers to master the language and not limit their growth.-->
+
+El truco consistiría en descubrir que pequeñas aplicaciones puden atraer a los novatos y seguir proporcionando la capacidad para escribir grandes aplicaciones que lleve a los desarrolladores a dominar el lenguaje sin limitar su crecimiento.
 
 
 #### 3. Sensible environment.
