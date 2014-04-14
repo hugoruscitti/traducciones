@@ -38,7 +38,7 @@
     </head>
     <body>
         
-<div class="book" data-github="alvarmaciel/traducciones" data-level="2" data-basepath="." data-revision="1397050458287">
+<div class="book" data-github="alvarmaciel/traducciones" data-level="2" data-basepath="." data-revision="1397485505795">
     <div class="book-header">
     <!-- Actions Left -->
     <a href="https://github.com/alvarmaciel/traducciones" target="_blank" class="btn pull-left"><i class="fa fa-github-alt"></i></a>
@@ -140,8 +140,8 @@ Al final de esta primer parte del texto hay un ejemplo de esto -->
 Las computadoras antiguas ni se comparan a las de hoy, tampoco las consolas. Pero, lamentablemente, las versiones actuales de Windows no tienen lenguajes de programación inmediatamente accesibles. Además, ¿qué puede llegar a hacer un chico con Visual Basic?, ¿Crear un diálogo modal?. Olvidemos codear para XBox, porque requiere una registración en el programa de desarrollo de XBox. Es más, tenés que descifrar absolutamente todo. ¿GameCube? ¿GameBoy? ¿Playstation 2?
 
 <!--## Coding Just Isn't Accessible-->
-## Programar es simplemente inaccesible
 
+<h2 id="programar-es-simplemente-inaccesible">Programar es simplemente inaccesible</h2>
 <!-- Yes, there are burgeoning free SDKs for many of these platforms. But they are obscure and most children have no means of actually deploying or executing the code on their own hardware! This is obvious to us all and likely doesn't seem such a big deal. But ask yourself what might have happened had you not had access to a programming language on an Atari 800 or a Commodore. You tell me if this is a predicament.-->
 Sí, florecen SDK libres para muchas de estas plataformas. Pero son oscuras y la mayoría de los niños no tienen medios para realmente implementar o ejecutar el código en su propio hardware. Esto es obvio para todos nosotros y es probable que no parezca gran cosa. Pero hay que preguntarse qué podría haberte ocurrido de no haber tenido acceso a un lenguaje de programación en una Atari 800 o una Commodore. Diganmé si esto no es un dilema. 
 
@@ -158,8 +158,8 @@ Tal vez esto sólo sea otra razón para empujar a usar Linux y BSD en los sistem
 
 <p>He de mencionar que Windows viene equipado con su própio motor y <a href="https://es.wikipedia.org/wiki/Windows_Script_Host" target="_blank">entorno de ejecución de scripts</a> para desarrollar en JScript y VBScript. Pero el uso de este motor esta (creo yo) con poca documentación y limitado a principiantes. Traten de hacer algo útil en un script sin usar <code>Server.CreateObject</code>. ¡No dejemos que los niños toquen los objetos <code>COM</code>, por favor!</p>
 <!--## The Christmas List-->
-## La lista navideña
 
+<h2 id="la-lista-navide-a">La lista navideña</h2>
 <!--I'm thinking a toy language for consoles and desktops alike could be monumental. I'm ot saying it needs to be cross-platform. A language for GameCube that took advantage of platform-specific features could be more appealing to GameCube users than a language that used a reduced featureset, but could execute on a handheld. Really, we live in a world where both choices should be available.-->
 
 <p>Pienso que un lenguaje como para jugar, hecho para consolas y computadoras podría ser monumental. No digo que necesite ser multiplataforma. Un lenguaje para <a href="https://es.wikipedia.org/wiki/Gamecube" target="_blank">GameCube</a> que tome ventaja de las características específicas de esa plataforma podría ser más atractivo para los usuarios de GameCube que un lenguaje que utilice un conjunto de características reducidas, pero que podría ejecutarse en un dispositivo portátil. En realidad, vivimos en un mundo en el que ambas opciones deberían estar disponibles.</p>
@@ -181,9 +181,11 @@ En cuanto a características esenciales:
 <!-- You've got to be able to write a single line of code and see a result. We need some instant results to give absolute beginners confidence. Simple methods for sending an e-mail, reading a web page, playing music. Demonstrable in a one-liner.-->
 
 <p>Debes poder escribir una sola línea de código y ver el resultado. Necesitamos resultados instantáneos para dar confianza a los principiantes absolutos. Métodos simples para enviar un email, leer una página web, reproducir música. Demostrable en un programa de una línea. </p>
-<p>Admittedly, as our systems have grown complex, it is difficult to balance simplicity and capability. Most users will be unimpressed by code that emits beeps and bloops from a PlayStation 2. If Ruby were available on the PS2, then I would hope that I could hear rich symphonic sounds from a wee bit of code.</p>
-<p>Orchestra.play( &quot;A:2&quot;, &quot;C:4&quot;, &quot;E:1&quot;, &quot;G:1&quot; )</p>
-<p>Access to the graphic engine might require more complex code. But simple drawing methods could be provided for beginners. Or images could be stored alongside code and accessed programmatically.</p>
+<!-- Admittedly, as our systems have grown complex, it is difficult to balance simplicity and capability. Most users will be unimpressed by code that emits beeps and bloops from a PlayStation 2. If Ruby were available on the PS2, then I would hope that I could hear rich symphonic sounds from a wee bit of code.-->
+
+<p>Cierto es que, como nuestros sistemas han crecido en complejidad, es difícil equilibrar simplicidad y potencialidad. La mayoría de los usuarios se mostraron impresionados por el código que emite pitidos y bloops de una PlayStation 2. Si Ruby hubiera estado disponible en la PS2, entonces esperarían que se puedan oír ricos sonidos sinfónicos usando un poquito de código</p>
+<pre><code>Orchestra<span class="hljs-preprocessor">.play</span>( <span class="hljs-string">"A:2"</span>, <span class="hljs-string">"C:4"</span>, <span class="hljs-string">"E:1"</span>, <span class="hljs-string">"G:1"</span> )
+</code></pre><p>Access to the graphic engine might require more complex code. But simple drawing methods could be provided for beginners. Or images could be stored alongside code and accessed programmatically.</p>
 <p>ImageLibrary.load( &quot;GolfingOldMan&quot; ).drawAt( 12, 10 )</p>
 <p>The trick would be to uncover what small applications might entice novices and still provide the ability to write large applications that would drive developers to master the language and not limit their growth.</p>
 <h4 id="3-sensible-environment-">3. Sensible environment.</h4>
