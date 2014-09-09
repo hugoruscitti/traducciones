@@ -90,28 +90,44 @@ EL acceso al motor gráfico puede requerir de código más complejo. Pero podrí
 El truco consistiría en descubrir que pequeñas aplicaciones puden atraer a los novatos y seguir proporcionando la capacidad para escribir grandes aplicaciones que lleve a los desarrolladores a dominar el lenguaje sin limitar su crecimiento.
 
 
-#### 3. Sensible environment.
+<!--#### 3. Sensible environment.-->
+#### 3. Entorno sensible
 
-Considering that many won't want to purchase a keyboard for their gaming unit, let's make sure that a reasonable environment is provided for entry of text. Controllers could be worked like the Twiddler. Or code could be transferred via IR, TCP/IP. (Dare I say cassette? :D)
+<!--Considering that many won't want to purchase a keyboard for their gaming unit, let's make sure that a reasonable environment is provided for entry of text. Controllers could be worked like the Twiddler. Or code could be transferred via IR, TCP/IP. (Dare I say cassette? :D)-->
 
-
-#### 4. Give it away!
-
-It used to be that programming was practically an inalienable right for users. Include a language with the system, situated in a friendly spot. Each of the game consoles I've mentioned has launchers. (With the exception of Game Boy and its successors.) Provide a development prompt from the launcher. From desktop software, provide shortcuts for both the command prompt and a development prompt.
+Considerando que habrá muchos que no querran comprar un teclado para su consola de juegos, aseguremosnos que se proveerá un entorno razonable para ingresar texto. Los controles pueden ser como el [Twiddler](http://twiddler.tekgear.com/). O el código puede transferirse via IR, TCP/IP. (¿me atrevería a decir en cassette? :D)
 
 
-Remember, we're looking for a language that requires no system hacks. No obscure links. No warranty violation. We've become so used to these techniques that it seems to be an essential part of getting our way.
+<!--#### 4. Give it away!-->
+#### 4. ¡Regalenló!
 
-And in many ways it is essential. Tinkering with hardware is learning. Lobotomizing and renovating is meaningful, magical. On behalf of those who prefer to code, I make these wishes. Not to take away jobs from the Phillips screwdriver.
+
+<!--It used to be that programming was practically an inalienable right for users. Include a language with the system, situated in a friendly spot. Each of the game consoles I've mentioned has launchers. (With the exception of Game Boy and its successors.) Provide a development prompt from the launcher. From desktop software, provide shortcuts for both the command prompt and a development prompt.-->
+
+Solía ser que la programación era prácticamente un derecho inalienable para los usuarios. Incluían un lenguaje con el sistema, situado en un lugar amigable. Cada  una de las consolas de juego que he mencionado tenía lanzadores. (Con la escepción de Game Boy y sus sucesores) que porveian un prompt (entrada) para desarrollo desde el lanzador. Los programas de escritorio, porveían enlaces para ambas, la entrada de comandos (command prompt ) y la entrada de desarrollo (development prompt).
+
+<!--Remember, we're looking for a language that requires no system hacks. No obscure links. No warranty violation. We've become so used to these techniques that it seems to be an essential part of getting our way.-->
+
+Recuerden, estamos buscando un lenguaje que no requiera hackeos al sistema. Que no tenga links oscuros. Ni violaciones a la garantía. Nos hemos acostumbrado tanto a estas técnicas, que parecieran ser una parte esencial en nuestro camino.
+
+<!--And in many ways it is essential. Tinkering with hardware is learning. Lobotomizing and renovating is meaningful, magical. On behalf of those who prefer to code, I make these wishes. Not to take away jobs from the Phillips screwdriver.-->
+
+Y en muchos sentidos es esencial. Juguetear con el hardware es aprender. Lobotomizar y renovar es significativo, es mágico. En nombre de los que prefieren código, hago estos deseos. No para quitar trabajo de los destornilladores Phillips.
 
 
-## The Ultimatum
+<!--## The Ultimatum-->
+## El Ultimátum
 
-My challenge is to Sony, Nintendo, Microsoft, Apple, and to those who manufacture and develop our interactive technology. Let us interact with these machines more deeply. Provide us a channel for having a dialogue with the entertainment boxes we nurture and care for. I swear to you, the relationship between the public and your product will assuredly blossom. That box will become more of a chest for our personal works.
+<!--My challenge is to Sony, Nintendo, Microsoft, Apple, and to those who manufacture and develop our interactive technology. Let us interact with these machines more deeply. Provide us a channel for having a dialogue with the entertainment boxes we nurture and care for. I swear to you, the relationship between the public and your product will assuredly blossom. That box will become more of a chest for our personal works.-->
 
-In addition, if your developers start putting out crap, then you have a whole world of people to pick up the slack.
+Mi desafío es a Sony, Nintendo, Microsoft, Apple, y a aquellos que fabrican y desarrollan nustra tecnología interactiva. Permítanos interactuar con estas máquinas más profundamente. Provéanos de un canal para tener este diálogo con las cajas de entretenimiento que nutrimos y cuidamos. Les juro, la relación entre el público y su producto con absoluta certeza florecerá.
 
-My challenge is for you to bundle a useful programming language with your product. Ruby, Squeak, REBOL, Python. Take your pick. It will be inexpensive to add any of these languages to your systems. And people will seriously pray to you. You know how geeks get when they pledge allegiance to something. But, yes, Ruby is preferable.
+<!--In addition, if your developers start putting out crap, then you have a whole world of people to pick up the slack.-->
+Además, si sus desarrolladores empiezan a sacar mierda, entonces tendrán todo un mundo de gente que tomara las riendas.
+
+<!--My challenge is for you to bundle a useful programming language with your product. Ruby, Squeak, REBOL, Python. Take your pick. It will be inexpensive to add any of these languages to your systems. And people will seriously pray to you. You know how geeks get when they pledge allegiance to something. But, yes, Ruby is preferable.-->
+
+Mi desafío es para ustedes es que puedan empaquetar un lenguaje de programación util con sus producto. Ruby, Squeak, REBOL, Python. Hagan su elección. Será absolutamente económico agragar cualquiera de estos lenguajes a su sistema. Y la gente, en serio que va a rezarles. Ustedes saben como como se ponen los geeks cuando juran lealtad a algo. Y sí, Ruby es preferible
 
 
 > Escrito por *why the lucky stiff*, el 10 junio del 2003.
