@@ -50,6 +50,7 @@ He de mencionar que Windows viene equipado con su própio motor y [entorno de ej
 Pienso que un lenguaje como para jugar, hecho para consolas y computadoras podría ser monumental. No digo que necesite ser multiplataforma. Un lenguaje para [GameCube](https://es.wikipedia.org/wiki/Gamecube) que tome ventaja de las características específicas de esa plataforma podría ser más atractivo para los usuarios de GameCube que un lenguaje que utilice un conjunto de características reducidas, pero que podría ejecutarse en un dispositivo portátil. En realidad, vivimos en un mundo en el que ambas opciones deberían estar disponibles.
 
 <!--As for essential features:-->
+
 En cuanto a características esenciales:
 
 #### 1. Código transportable
@@ -91,6 +92,7 @@ El truco consistiría en descubrir que pequeñas aplicaciones puden atraer a los
 
 
 <!--#### 3. Sensible environment.-->
+
 #### 3. Entorno sensible
 
 <!--Considering that many won't want to purchase a keyboard for their gaming unit, let's make sure that a reasonable environment is provided for entry of text. Controllers could be worked like the Twiddler. Or code could be transferred via IR, TCP/IP. (Dare I say cassette? :D)-->
@@ -99,6 +101,7 @@ Considerando que habrá muchos que no querran comprar un teclado para su consola
 
 
 <!--#### 4. Give it away!-->
+
 #### 4. ¡Regalenló!
 
 
@@ -116,6 +119,7 @@ Y en muchos sentidos es esencial. Juguetear con el hardware es aprender. Lobotom
 
 
 <!--## The Ultimatum-->
+
 ## El Ultimátum
 
 <!--My challenge is to Sony, Nintendo, Microsoft, Apple, and to those who manufacture and develop our interactive technology. Let us interact with these machines more deeply. Provide us a channel for having a dialogue with the entertainment boxes we nurture and care for. I swear to you, the relationship between the public and your product will assuredly blossom. That box will become more of a chest for our personal works.-->
