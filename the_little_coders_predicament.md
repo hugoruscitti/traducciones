@@ -131,7 +131,7 @@ Además, si sus desarrolladores empiezan a sacar mierda, entonces tendrán todo 
 
 <!--My challenge is for you to bundle a useful programming language with your product. Ruby, Squeak, REBOL, Python. Take your pick. It will be inexpensive to add any of these languages to your systems. And people will seriously pray to you. You know how geeks get when they pledge allegiance to something. But, yes, Ruby is preferable.-->
 
-Mi desafío es para ustedes es que puedan empaquetar un lenguaje de programación útil con sus producto. Ruby, Squeak, REBOL, Python. Hagan su elección. Será absolutamente económico agrandar cualquiera de estos lenguajes a su sistema. Y la gente, en serio que va a rezarles. Ustedes saben como como se ponen los geeks cuando juran lealtad a algo. Y sí, Ruby es preferible
+Mi desafío es para ustedes es que puedan empaquetar un lenguaje de programación útil con sus producto. Ruby, Squeak, REBOL, Python. Hagan su elección. Será absolutamente económico agregar cualquiera de estos lenguajes a su sistema. Y la gente, en serio que va a rezarles. Ustedes saben como como se ponen los geeks cuando juran lealtad a algo. Y sí, Ruby es preferible
 
 
 > Escrito por *why the lucky stiff*, el 10 junio del 2003.
