@@ -11,7 +11,7 @@ Al final de esta primer parte del texto hay un ejemplo de esto -->
 
 <!-- Okay, then, children of the modern age (where we live in a world so tied together with wires that Pangaea ain't goin' nowhere!), you tell me if this is a predicament or not.-->
 
-Veamos entonces, niño de la era moderna (¡en la que vivimos en un mundo tan interconectado de cables que Pangaea no se irá a ningún lado!), decime vos si esto es un dilema o no.
+Veamos entonces, niño de la era moderna (¡en la que vivimos en un mundo tan interconectado de cables que Pangea no se irá a ningún lado!), decime vos si esto es un dilema o no.
 
 <!-- In the 1980s, you could look up from your Commodore 64, hours after purchasing it, with a glossy feeling of empowerment, achieved by the pattern of notes spewing from the speaker grille in an endless loop. You were part of the movement to help machines sing! You were a programmer! The Atari 800 people had BASIC. They know what I'm talking about. And the TI-994A guys don't need to say a word, because the TI could say it for them!-->
 
@@ -29,17 +29,17 @@ Las computadoras antiguas ni se comparan a las de hoy, tampoco las consolas. Per
 Sí, florecen SDK libres para muchas de estas plataformas. Pero son oscuras y la mayoría de los niños no tienen medios para realmente implementar o ejecutar el código en su propio hardware. Esto es obvio para todos nosotros y es probable que no parezca gran cosa. Pero hay que preguntarse qué podría haberte ocurrido de no haber tenido acceso a un lenguaje de programación en una Atari 800 o una Commodore. Diganmé si esto no es un dilema. 
 
 <!-- It turns out, most of the kids in my neighborhood are exposed to coding through the TI calculator. A handful of languages are available on the TI and its processor is interesting enough to evoke some curiousity. But this hasn't spread to its PDA big brothers, where young people could have more exposure to programming. And undoubtedly the utility of a language on the Palm, Pocket PC and others would be useful to many. -->
-Resulta que, la mayoría de los chicos de mi barrio estan expuestos a la programación a través de las [calculadoras TI](https://en.wikipedia.org/wiki/TI-83). Un puñado de lenguajes están disponibles y su procesador es lo suficientemente interesante como para evocar cierta curiosidad. Pero esto no se difundió a sus hermanas mayores las PDAs, donde los jóvenes pueden tener más exposición a la programación. Y sin duda, la utilidad de un lenguaje para programar en la Palm, Pocket PC y otros dispositivos para serían muy útiles para muchos.
+Resulta que, la mayoría de los chicos de mi barrio están expuestos a la programación a través de las [calculadoras TI](https://en.wikipedia.org/wiki/TI-83). Un puñado de lenguajes están disponibles y su procesador es lo suficientemente interesante como para evocar cierta curiosidad. Pero esto no se difundió a sus hermanas mayores las PDAs, donde los jóvenes pueden tener más exposición a la programación. Y sin duda, la utilidad de un lenguaje para programar en la Palm, Pocket PC y otros dispositivos serían muy útiles para muchos.
 
 <!-- So what's the problem here? We have no shortage of new languages, but they become increasingly distanced from the populace. Are the companies behind these platforms weary of placing the power of a programming language in the hands of users? Is there not a demand any longer? It's got to be some kind of greed, power, money thing, right?-->
-¿Entonces, cuál es el problema en todo esto? No hay escasez de lenguajes de programación, pero se vuelven cada vez más distanciados de la gente. ¿Serán las compañias detrás de estas plataformas que se cansaron ya de poner en manos de los usuarios el poder de los lenguajes de programación? ¿Es qué no hay más demanda? Debe ser algún tipo de avarícia, cosas del dinero o del poder ¿Verdad?
+¿Entonces, cuál es el problema en todo esto? No hay escasez de lenguajes de programación, pero se vuelven cada vez más distanciados de la gente. ¿Serán las compañías detrás de estas plataformas que se cansaron ya de poner en manos de los usuarios el poder de los lenguajes de programación? ¿Es qué no hay más demanda? Debe ser algún tipo de avaricia, cosas del dinero o del poder ¿Verdad?
 
 <!-- Perhaps this is just another reason to push Linux and BSD on consumer systems. Still, are scripting languages easily accessible to beginners on those systems? OSX has made several scripting languages available (including Ruby and Python), but most users are unaware of their presence.-->
-Tal vez esto sólo sea otra razón para empujar a usar Linux y BSD en los sistemas de los usuarios comunes. De todas maneras ¿Son sencillos y accesibles los [lenguages de programación interpretados](https://es.wikipedia.org/wiki/Scripts)? [OSX](https://es.wikipedia.org/wiki/OSX) ha hecho y puesto a disposición varios lenguajes (incluyendo Ruby y Python), pero la mayoría de los usuarios no son conscientes de su presencia.
+Tal vez esto sólo sea otra razón para empujar a usar Linux y BSD en los sistemas de los usuarios comunes. De todas maneras ¿Son sencillos y accesibles los [lenguajes de programación interpretados](https://es.wikipedia.org/wiki/Scripts)? [OSX](https://es.wikipedia.org/wiki/OSX) ha hecho y puesto a disposición varios lenguajes (incluyendo Ruby y Python), pero la mayoría de los usuarios no son conscientes de su presencia.
 
 <!--I should mention that Windows is equipped with its own scripting host for developing in JScript and VBScript. But the use of the scripting host is (I believe) under-documented and limited for beginners. Try doing something useful in a script without using Server.CreateObject. Let's not let kids touch the COM objects, please!-->
 
-He de mencionar que Windows viene equipado con su própio motor y [entorno de ejecución de scripts](https://es.wikipedia.org/wiki/Windows_Script_Host) para desarrollar en JScript y VBScript. Pero el uso de este motor esta (creo yo) con poca documentación y limitado a principiantes. Traten de hacer algo útil en un script sin usar `Server.CreateObject`. ¡No dejemos que los niños toquen los objetos `COM`, por favor!
+He de mencionar que Windows viene equipado con su propio motor y [entorno de ejecución de scripts](https://es.wikipedia.org/wiki/Windows_Script_Host) para desarrollar en JScript y VBScript. Pero el uso de este motor esta (creo yo) con poca documentación y limitado a principiantes. Traten de hacer algo útil en un script sin usar `Server.CreateObject`. ¡No dejemos que los niños toquen los objetos `COM`, por favor!
 
 <!--## The Christmas List-->
 
@@ -82,13 +82,13 @@ Cierto es que, como nuestros sistemas han crecido en complejidad, es difícil eq
 
 <!--Access to the graphic engine might require more complex code. But simple drawing methods could be provided for beginners. Or images could be stored alongside code and accessed programmatically.-->
 
-EL acceso al motor gráfico puede requerir de código más complejo. Pero podrían proporcinarse metodos simples de dibujo para principiantes. O las imágenes podrían estar guardadas junto al código para acceder a ellas a través de la programación.
+EL acceso al motor gráfico puede requerir de código más complejo. Pero podrían proporcionarse métodos simples de dibujo para principiantes. O las imágenes podrían estar guardadas junto al código para acceder a ellas a través de la programación.
 
     ImageLibrary.load( "GolfingOldMan" ).drawAt( 12, 10 )
 
 <!--The trick would be to uncover what small applications might entice novices and still provide the ability to write large applications that would drive developers to master the language and not limit their growth.-->
 
-El truco consistiría en descubrir que pequeñas aplicaciones puden atraer a los novatos y seguir proporcionando la capacidad para escribir grandes aplicaciones que lleve a los desarrolladores a dominar el lenguaje sin limitar su crecimiento.
+El truco consistiría en descubrir que pequeñas aplicaciones pueden atraer a los novatos y seguir proporcionando la capacidad para escribir grandes aplicaciones que lleve a los desarrolladores a dominar el lenguaje sin limitar su crecimiento.
 
 
 <!--#### 3. Sensible environment.-->
@@ -97,7 +97,7 @@ El truco consistiría en descubrir que pequeñas aplicaciones puden atraer a los
 
 <!--Considering that many won't want to purchase a keyboard for their gaming unit, let's make sure that a reasonable environment is provided for entry of text. Controllers could be worked like the Twiddler. Or code could be transferred via IR, TCP/IP. (Dare I say cassette? :D)-->
 
-Considerando que habrá muchos que no querran comprar un teclado para su consola de juegos, aseguremosnos que se proveerá un entorno razonable para ingresar texto. Los controles pueden ser como el [Twiddler](http://twiddler.tekgear.com/). O el código puede transferirse via IR, TCP/IP. (¿me atrevería a decir en cassette? :D)
+Considerando que habrá muchos que no querrán comprar un teclado para su consola de juegos, asegurémonos que se proveerá un entorno razonable para ingresar texto. Los controles pueden ser como el [Twiddler](http://twiddler.tekgear.com/). O el código puede transferirse via IR, TCP/IP. (¿me atrevería a decir en cassette? :D)
 
 
 <!--#### 4. Give it away!-->
@@ -107,7 +107,7 @@ Considerando que habrá muchos que no querran comprar un teclado para su consola
 
 <!--It used to be that programming was practically an inalienable right for users. Include a language with the system, situated in a friendly spot. Each of the game consoles I've mentioned has launchers. (With the exception of Game Boy and its successors.) Provide a development prompt from the launcher. From desktop software, provide shortcuts for both the command prompt and a development prompt.-->
 
-Solía ser que la programación era prácticamente un derecho inalienable para los usuarios. Incluían un lenguaje con el sistema, situado en un lugar amigable. Cada  una de las consolas de juego que he mencionado tenía lanzadores. (Con la escepción de Game Boy y sus sucesores) que porveian un prompt (entrada) para desarrollo desde el lanzador. Los programas de escritorio, porveían enlaces para ambas, la entrada de comandos (command prompt ) y la entrada de desarrollo (development prompt).
+Solía ser que la programación era prácticamente un derecho inalienable para los usuarios. Incluían un lenguaje con el sistema, situado en un lugar amigable. Cada  una de las consolas de juego que he mencionado tenía lanzadores. (Con la excepción de Game Boy y sus sucesores) que proveían un prompt (entrada) para desarrollo desde el lanzador. Los programas de escritorio, proveían enlaces para ambas, la entrada de comandos (command prompt ) y la entrada de desarrollo (development prompt).
 
 <!--Remember, we're looking for a language that requires no system hacks. No obscure links. No warranty violation. We've become so used to these techniques that it seems to be an essential part of getting our way.-->
 
@@ -124,14 +124,14 @@ Y en muchos sentidos es esencial. Juguetear con el hardware es aprender. Lobotom
 
 <!--My challenge is to Sony, Nintendo, Microsoft, Apple, and to those who manufacture and develop our interactive technology. Let us interact with these machines more deeply. Provide us a channel for having a dialogue with the entertainment boxes we nurture and care for. I swear to you, the relationship between the public and your product will assuredly blossom. That box will become more of a chest for our personal works.-->
 
-Mi desafío es a Sony, Nintendo, Microsoft, Apple, y a aquellos que fabrican y desarrollan nustra tecnología interactiva. Permítanos interactuar con estas máquinas más profundamente. Provéanos de un canal para tener este diálogo con las cajas de entretenimiento que nutrimos y cuidamos. Les juro, la relación entre el público y su producto con absoluta certeza florecerá.
+Mi desafío es a Sony, Nintendo, Microsoft, Apple, y a aquellos que fabrican y desarrollan nuestra tecnología interactiva. Permitan que interactuemos con estas máquinas más profundamente. Establezcan un canal para tener este diálogo con las cajas de entretenimiento que nutrimos y cuidamos. Les juro, la relación entre el público y su producto con absoluta certeza florecerá.
 
 <!--In addition, if your developers start putting out crap, then you have a whole world of people to pick up the slack.-->
 Además, si sus desarrolladores empiezan a sacar mierda, entonces tendrán todo un mundo de gente que tomara las riendas.
 
 <!--My challenge is for you to bundle a useful programming language with your product. Ruby, Squeak, REBOL, Python. Take your pick. It will be inexpensive to add any of these languages to your systems. And people will seriously pray to you. You know how geeks get when they pledge allegiance to something. But, yes, Ruby is preferable.-->
 
-Mi desafío es para ustedes es que puedan empaquetar un lenguaje de programación util con sus producto. Ruby, Squeak, REBOL, Python. Hagan su elección. Será absolutamente económico agragar cualquiera de estos lenguajes a su sistema. Y la gente, en serio que va a rezarles. Ustedes saben como como se ponen los geeks cuando juran lealtad a algo. Y sí, Ruby es preferible
+Mi desafío es para ustedes es que puedan empaquetar un lenguaje de programación útil con sus producto. Ruby, Squeak, REBOL, Python. Hagan su elección. Será absolutamente económico agregar cualquiera de estos lenguajes a su sistema. Y la gente, en serio que va a rezarles. Ustedes saben como como se ponen los geeks cuando juran lealtad a algo. Y sí, Ruby es preferible
 
 
 > Escrito por *why the lucky stiff*, el 10 junio del 2003.
